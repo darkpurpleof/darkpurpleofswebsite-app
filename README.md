@@ -5,6 +5,7 @@ The add-on complementary app for my website, visit the website at [darkpurpleof.
 ## Features ✨
 
 - Open various pages of the website.
+- Do many things that the website can't
 - Additional features to enhance user experience.
 
 ## Getting Started 🚀
